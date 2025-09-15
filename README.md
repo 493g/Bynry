@@ -31,4 +31,9 @@ This repository includes the backend implementation for the StockFlow platform, 
 ---
 
 ## 📂 Project Structure
-
+├── app.py # Main Flask app with the API endpoints
+├── models.py # Database schema using SQLAlchemy
+├── run.py # Script to initialize and run the server
+├── seed.py # Script to seed the database with sample data
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation

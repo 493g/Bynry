@@ -30,3 +30,20 @@ This repository includes the backend implementation for the StockFlow platform, 
 
 ---
 
+---
+
+## ✅ Installation Instructions
+
+### Prerequisites
+- Python 3.10 or newer
+- pip package manager
+- Virtual environment (recommended)
+
+### Steps
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/stockflow.git
+   cd stockflow
+
